@@ -1,0 +1,9 @@
+*.csv
+*.json
+*.jl
+*.pickle
+*.marshal
+**/__pycache__
+.vscode
+quotes/spiders/teste_charset.html
+quotes/spiders/teste_charset.txt
